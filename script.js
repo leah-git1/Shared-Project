@@ -1,4 +1,4 @@
-alert("How are you??")
-alert("this is a big conflict!!!")
+alert("How are you???")
+alert("this is not a big conflict!!!")
 
 alert("hey")
